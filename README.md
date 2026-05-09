@@ -20,7 +20,7 @@ A simple Student Management System built using Spring Boot, JSP, and MySQL.
 
 ## Project Screenshot
 
-![Student Management System](demo student management system.png)
+![image](<img width="1027" height="740" alt="Image" src="https://github.com/user-attachments/assets/cf488101-49e2-407c-a777-345c7afd10b1" />)
 
 ## Run the Project
 
